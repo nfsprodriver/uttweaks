@@ -1,0 +1,2 @@
+mv /usr/share/webbrowser-app/webbrowser-app.png /usr/share/webbrowser-app/webbrowser-app.png.bak
+cp webbrowser-app.png /usr/share/webbrowser-app/webbrowser-app.png

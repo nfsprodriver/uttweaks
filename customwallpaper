@@ -1,4 +1,4 @@
 mv /usr/share/unity8/Dash/DashBackground.qml /usr/share/unity8/Dash/DashBackground.qml.bak
-mv /usr/lib/arm-linux-gnueabihf/unity8/qml/Dash/ScopyStyle.qml /usr/lib/arm-linux-gnueabihf/unity8/qml/Dash/ScopyStyle.qml.bak
+mv /usr/lib/arm-linux-gnueabihf/unity8/qml/Dash/ScopeStyle.qml /usr/lib/arm-linux-gnueabihf/unity8/qml/Dash/ScopyStyle.qml.bak
 cp DashBackground.qml /usr/share/unity8/Dash/DashBackground.qml
-cp ScopyStyle.qml /usr/lib/arm-linux-gnueabihf/unity8/qml/Dash/ScopyStyle.qml
+cp ScopyStyle.qml /usr/lib/arm-linux-gnueabihf/unity8/qml/Dash/ScopeStyle.qml
